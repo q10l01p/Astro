@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: main # change this to your branch
-  repo: q10l01p/Astro/blob # 1、change this to your repo
+  repo: q10l01p/Astro # 1、change this to your repo
   site_domain: bolg.hijie.me # 2、change this to your domain
   base_url: https://bolg.hijie.me # 3、change this to your prod URL
   auth_endpoint: oauth # the oauth route provided by the integration
